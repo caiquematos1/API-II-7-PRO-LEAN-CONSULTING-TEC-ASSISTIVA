@@ -1,5 +1,6 @@
 # 💻Aprendizado por Projeto Integrador ( API)
 
-![image](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Imagens/LOGO_SLOGAN%20(1).jpg?raw=true)
+![image](https://github.com/user-attachments/assets/23e128ad-0276-42c8-9775-8aa5069e8056)
+
 
 
