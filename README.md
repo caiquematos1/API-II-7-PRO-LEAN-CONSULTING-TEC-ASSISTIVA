@@ -1,4 +1,4 @@
-# Sobre nós 
+# ![Ícone de Grupo de Equipe](caminho-para-o-icone) Aprendizado por Projeto Integrador (API) Sobre nós 
 A 7 Pro Lean Consulting é uma parceira estratégica focada em transformar empresas, entregando soluções inteligentes e acessíveis que maximizam eficiência e resultados. Com expertise em Lean Manufacturing, potencializamos a performance do seu negócio, colocando o sucesso ao seu alcance sempre olhando  o futuro.​
 ![image](https://github.com/user-attachments/assets/23e128ad-0276-42c8-9775-8aa5069e8056)
 
