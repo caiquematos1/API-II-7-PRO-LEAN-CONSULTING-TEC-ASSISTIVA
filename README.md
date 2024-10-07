@@ -20,8 +20,7 @@ Este projeto propõe a implementação do Scrum para desenvolver dispositivo tec
 - [Autores](#Autores)
 
  # 🚥Projeto (API) 
- Propõe-se um plano educacional voltado para prestar serviços de consultoria à empresa Doce Sabor. O objetivo principal é empregar estratégias que possibilitem a compreensão dos desafios enfrentados pela empresa, bem como a elaboração de soluções práticas durante o desenvolvimento e a implementação do MVP. Em seguida, será realizada a operacionalização contínua do projeto, seguindo os princípios do CDIO. Os resultados finais do projeto serão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, o qual incluirá a definição das datas de início do projeto e das iterações de trabalho.
-
+Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, com foco em tecnologia assistiva. O objetivo é desenvolver um dispositivo destinado a indivíduos que sofrem de condromalácia patelar de grau 4. A proposta visa proporcionar suporte e melhorar a qualidade de vida desses usuários, abordando suas necessidades específicas por meio de inovações práticas e funcionais. Para isso, serão empregadas estratégias que permitam compreender os desafios enfrentados por essa população e elaborar soluções efetivas durante a criação e implementação do Produto Mínimo Viável (MVP). O projeto seguirá os princípios do CDIO (Conceber, Desenvolver, Implementar e Operar) e seus resultados estarão alinhados com as diretrizes do Aviso Legal disponível no portal da Fatec SJC, incluindo a definição das datas de início e das iterações de trabalho.
 
 | Sprint         | Previsão     | Status     | Histórico       | 
 | -------------- | ------------ | ---------- | --------------- | 
