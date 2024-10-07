@@ -32,7 +32,7 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 | Feira de Soluções |12/12/2024  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 
 
 # 🎓Micro Certificações 
-![image](https://github.com/user-attachments/assets/ac269f28-fd0e-42ad-8cd9-dc2542fee697)
+![image](https://github.com/user-attachments/assets/d5dd71bb-9ef6-432f-a93b-406a2f8a7c89)
 
 ## 👥👥  Equipe
 ![image](https://github.com/user-attachments/assets/488fce2f-5203-4ed3-90c8-5490ee3c87f8)
