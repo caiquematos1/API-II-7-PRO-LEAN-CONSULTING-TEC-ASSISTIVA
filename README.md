@@ -33,3 +33,5 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 
 # 🎓Micro Certificações 
 ![image](https://github.com/user-attachments/assets/ac269f28-fd0e-42ad-8cd9-dc2542fee697)
+
+## 👥 Equipe
