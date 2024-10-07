@@ -7,3 +7,14 @@ A 7 Pro Lean Consulting é uma parceira estratégica focada em transformar empre
 # 💻Aprendizado por Projeto Integrador ( API)
 Este projeto propõe a implementação do Scrum para desenvolver dispositivo tecnológico  que melhorem a qualidade de vida de pessoas com deficiência, em um ambiente dinâmico de inovação. Priorizando entregas incrementais de alto valor através de ciclos curtos de trabalho (Sprints), o Scrum facilita a colaboração entre equipes multidisciplinares, promove transparência no desenvolvimento e permite adaptações contínuas às necessidades dos usuários. Com papéis bem definidos e responsabilidades claras, busca-se não apenas aumentar a eficiência no desenvolvimento de soluções, mas também criar uma cultura focada em inclusão e acessibilidade. A adoção do Scrum visa acelerar a criação de tecnologias que façam a diferença, promovendo a autonomia e o bem-estar das pessoas com deficiência e gerando um impacto positivo na sociedade.
 
+# 📚Índice  
+- [Projeto ( API )](#Projeto ( API ))
+- [Micro Certificações](#Micro-Certificações)
+- [Equipe](#Equipe)
+- [Objetivo do projeto](#Objetivo-do-projeto)
+- [Recursos e Apresentações das Sprints](#Recursos-e-Apresentações-das-Sprints)
+- [Cronogramas das sprints](#Cronogramas-das-sprints)
+- [Backlog do Produto](#Backlog-do-Produto)
+- [Burndown](#Burndown)
+- [Competências Desenvolvidas](#competências-desenvolvidas)
+- [Autores](#Autores)
