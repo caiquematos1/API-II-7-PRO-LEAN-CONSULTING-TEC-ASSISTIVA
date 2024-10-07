@@ -37,4 +37,5 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 ## 👥👥  Equipe
 ![image](https://github.com/user-attachments/assets/488fce2f-5203-4ed3-90c8-5490ee3c87f8)
 
-#🎯Objetivo  
+# 🎯Objetivo  
+O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhorando a qualidade de vida desses indivíduos. Essas soluções são projetadas para atender necessidades específicas, como facilitar atividades diárias, superar limitações físicas ou sensoriais e ampliar a capacidade de comunicação e interação social.
