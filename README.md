@@ -35,7 +35,8 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 #🎓Micro Certificações 
 ![image](https://github.com/user-attachments/assets/d5dd71bb-9ef6-432f-a93b-406a2f8a7c89)
 
-## 👥👥  Equipe
+# 👥  Equipe
+
 ![image](https://github.com/user-attachments/assets/488fce2f-5203-4ed3-90c8-5490ee3c87f8)
 
 # 🎯Objetivo  
