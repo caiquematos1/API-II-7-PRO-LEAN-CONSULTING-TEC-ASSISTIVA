@@ -32,10 +32,11 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 | 04             | 01/12/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%204%20do%20projeto%20integrador%20.pdf) |
 | Feira de Soluções |12/12/2024  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 
 
-#🎓Micro Certificações 
+# 🎓Micro Certificações 
+
 ![image](https://github.com/user-attachments/assets/d5dd71bb-9ef6-432f-a93b-406a2f8a7c89)
 
-# 👥  Equipe
+# 👥👥  Equipe
 
 ![image](https://github.com/user-attachments/assets/488fce2f-5203-4ed3-90c8-5490ee3c87f8)
 
