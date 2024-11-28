@@ -42,3 +42,10 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 
 # 🎯Objetivo  
 O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhorando a qualidade de vida desses indivíduos. Essas soluções são projetadas para atender necessidades específicas, como facilitar atividades diárias, superar limitações físicas ou sensoriais e ampliar a capacidade de comunicação e interação social.
+
+# 📊Recursos e Apresentações das Sprints 
+
+# Sprint 1
+-  
+-  
+-  
